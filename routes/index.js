@@ -15,6 +15,7 @@ router.get('/', function(req, res, next) {
   console.log("c1_add_2");
   console.log("f1_add_1");
   console.log("g1_add_1");
+  console.log("h_add_1");
 });
 
 module.exports = router;
