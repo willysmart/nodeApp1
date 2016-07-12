@@ -13,6 +13,7 @@ router.get('/', function(req, res, next) {
   console.log("b1_add_1");
   console.log("c1_add_1");
   console.log("c1_add_2");
+  console.log("col");
 });
 
 module.exports = router;
